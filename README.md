@@ -1,5 +1,8 @@
 # Shopify Genric API Using GraphQL
 
+<p>Please install <a href="a" target="_blank">insomnia </a>for using GraphQL api testing</p>
+
+
 <h2>GraphQL Query</h2>
 <pre>
 "query":"query getFileUrl($id: ID!) {
